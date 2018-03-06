@@ -4,7 +4,7 @@ public class Prueba {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("eh, vegetta. eh, vegetta. eres el mejor youtuber");
+		System.out.println("eh ch, vegetta. eh ch, vegetta. eres el mejor youtuber");
 
 	}
 
